@@ -1,8 +1,10 @@
 # crtd_flutter_screen
 
-A new Flutter project.
+## Getting Started!
 
-## Getting Started
+<img src="https://github.com/govindgurjar/CRTD_Flutter_Screen/assets/83970520/18467535-bdc1-4624-ba8b-924ca7df28df" alt="drawing" width="300"/>
+<img src="https://github.com/govindgurjar/CRTD_Flutter_Screen/assets/83970520/6a2d2f13-8d75-4372-8bad-f20efa1cb6a8" alt="drawing" width="300"/>
+
 
 This project is a starting point for a Flutter application.
 
